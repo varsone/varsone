@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola, eu sou a maria clara e estou estudando na escola teofilo na 3 serie do ensino medio
 
 <!--
 **varsone/varsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
